@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjektInzynierski</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="speed">Speed</string>
+    <string name="_default_numerical">0.000</string>
+</resources>
